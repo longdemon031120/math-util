@@ -17,7 +17,7 @@ public class MathUtil {
      * @param args the command line arguments
      */
     public static void main(String[] args){
-        System.out.println("5!: " + MathUtility.getFactorial(-9));
+        System.out.println("5!: " + MathUtility.getFactorial(5));
     }
     
 }
