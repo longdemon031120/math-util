@@ -18,6 +18,7 @@ public class MathUtil {
      */
     public static void main(String[] args){
         System.out.println("5!: " + MathUtility.getFactorial(5));
+        System.out.println("ahihi");
     }
     
 }
